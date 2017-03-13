@@ -1,17 +1,20 @@
 # Urlaub in Italien
 
-![Weinberge](LandToskana.jpg) Die Toskana, früher Tuszien, Tuscien, Tuskien, italienisch Toscana, ist eine Region in Mittel-Italien. Sie grenzt im Norden an Ligurien und die Emilia-Romagna, im Osten an die Marken und an Umbrien und im Süden an Latium. Die Toskana gilt als historische Landschaft und bedeutende Kulturlandschaft.
+![Weinberge](LandToskana.jpg) 
+
+Die Toskana, früher Tuszien, Tuscien, Tuskien, italienisch Toscana, ist eine Region in Mittel-Italien. Sie grenzt im Norden an Ligurien und die Emilia-Romagna, im Osten an die Marken und an Umbrien und im Süden an Latium. Die Toskana gilt als historische Landschaft und bedeutende Kulturlandschaft.
 
 Ihre Bezeichnung leitet sich vom in der Antike hier ansässigen Volk der Etrusker her.
 
 ## Geographie
-
+Quelle: [Karte Toskana](https://www.google.at/search?q=toskana&rlz=1C1GGGE_deAT735AT735&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjt1dD_mdPSAhWCLsAKHUwLDeUQ_AUIBigB&biw=1288&bih=927#imgrc=8mjHvKy7nIYE6M:)
 ### Facts
 * Fläche von rund 22.990 km²
 * 3.744.398 Einwohner (Stand 31. Dezember 2015)
 * Hauptstadt ist Florenz im Norden der Region
 * weitere wichtige Städte sind Arezzo, Grosseto, Livorno, Lucca, Pisa, Pistoia, Prato und Siena
 * Hauptflüsse sind der Arno (im Norden) und der Ombrone (im Süden)
+
 
 
 Die Toskana ist bekannt für ihre hügelige Landschaft, die sich besonders durch die vielen Pinien, Säulenzypressen, Olivenbäume und Weinreben auszeichnet. Ihr höchster Berg ist der Monte Prado (2054 m). Die Toskana besitzt Waldgebiete von einer Million Hektar Fläche. In ihrem Süden finden Naturliebhaber ein großes Naturschutzgebiet, den Parco dell’Uccellina, mit außergewöhnlich seltener Flora und Fauna.
